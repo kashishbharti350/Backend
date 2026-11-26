@@ -9,8 +9,9 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 //message
 app.get('/', function(req, res){
-  res.send('Kashish Bharti');
+  res.render("index");
 });
 
-app.listen(3000);
- 
+app.listen(3000, function() {
+    console.log("Server is running on http://localhost:3000");
+});
