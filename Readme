@@ -1,1 +1,44 @@
-Learning Backend
+# 🚀 Backend Development Learning
+
+
+This repository documents my journey of learning backend development, practising concepts, writing code, and building projects. I'm using this repository to track my progress and strengthen my understanding of how backend systems work.
+
+## 📚 What I'm Learning
+
+- **Node.js** – JavaScript runtime environment
+- **Express.js** – Backend web application framework
+- **HTTP & REST APIs** – Understanding client-server communication
+- **API Development** – Creating and handling API requests
+- **MongoDB** – NoSQL database management
+- **Authentication & Authorization** – Managing users and access
+- **Middleware** – Understanding request-response flow
+- **Error Handling** – Handling errors efficiently
+
+
+*The structure will evolve as I learn and add more topics.*
+
+## 🛠️ Tech Stack
+
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+
+
+## 🎯 Goals
+
+- Build a strong foundation in backend development.
+- Understand how servers and databases work.
+- Learn to build RESTful APIs.
+- Practise writing clean and maintainable code.
+- Build real-world backend projects.
+
+## 📈 My Progress
+
+This repository is continuously updated as I explore new concepts, practise coding, and work on projects.
+
+## 🌱 Learning in Public
+
+I'm documenting my backend development journey, one concept at a time.
+
+**Consistency over perfection. Learning by building!** 
